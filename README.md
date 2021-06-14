@@ -31,5 +31,9 @@ theta=2 #int(input('Enter Threshhold value theta: '))
 zin1=x1*w11+x2*w21
 zin2=x1*w21+x2*w22
 ```
+If value in a given array is greater than the threshhold then 
+output is 1 ,
+else 0
+
 ## The output
 ![image](https://user-images.githubusercontent.com/81920073/121835953-1b780580-ccf0-11eb-85cf-3885ba131559.png)
